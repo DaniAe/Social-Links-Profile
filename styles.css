@@ -7,7 +7,7 @@
 body {
   background-color: hsl(0, 0%, 8%);
   font-family: "Inter", serif;
-  /* overflow: hidden; */
+  overflow: hidden;
   display: grid;
   align-items: center;
   min-height: 100vh;
